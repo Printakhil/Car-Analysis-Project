@@ -7,7 +7,7 @@ MY SQL PROJECT : SECOND HAND CAR DEALER
 
 Key Features : -
 
-In this project basicallly we can try to find out the following queries using mysql and our self analystic approache .
+In this project basicallly we can try to find out the following queries using mysql and our self analystic approach .
 
 Read the car data 
 Total cars - To get the count of total records
